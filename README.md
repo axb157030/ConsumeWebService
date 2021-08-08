@@ -18,11 +18,11 @@ Enter this, `http://localhost:8080/GetState/TN` after running the application.
 }`
 
 ### Blog
-- Soap web service accepts a payload that is turned from Java to XML. Class of payload should have @XML annotations such @XMLRootElement. The marshallers and unmarshallers that turn the java object to XML and vice versa, should be set and configured. 
+- Soap web service accepts a payload that is turned from Java to XML. Class of payload should have @XML annotations such @XMLRootElement. The marshallers and unmarshallers that turn the java object to XML and vice versa should be set and configured. 
 - The WSDL of the SOAP Web Service should be present in application."SOAP was developed as an intermediate language so that applications built on various programming languages could talk easily to each other and avoid the extreme development effort."
 From <https://www.guru99.com/soap-simple-object-access-protocol.html> 
-- The Soap Client should be configured
-Invoking the SOAP web service is like invoke a RESTful web service but with a little different syntax to call it and the payload has to come from a package that the marshaller.
+- The Soap Client should be configured.
+ Invoking the SOAP web service is like invoke a RESTful web service but with a little different syntax to call it and the payload has to come from a package that the marshaller.
 - Here is anothers  good link to learn more about SOAP: <a href="https://www.youtube.com/watch?v=C53G6R5EVys">SOAP Web Service Jargon</a>
 
 
