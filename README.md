@@ -1,7 +1,7 @@
 # ConsumeWebService
 
 It consumes a SOAP web service that runs on port 8081. It finds more information of a specific state of the U.S that by its abbreviation that the SOAP web service it consumes has information of.
-<p>This <a href="https://www.youtube.com/watch?v=SiFSNtDAIS0">SOAP Web service can be made following this video</a><p>
+<p>This <a href="https://www.youtube.com/watch?v=SiFSNtDAIS0">SOAP Web service that this application consumes can be made following this video</a><p>
 <p> Please make sure to configure the SOAP Web service to port 8081</p>
 
 
