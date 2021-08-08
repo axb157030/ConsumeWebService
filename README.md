@@ -9,7 +9,8 @@ It consumes a SOAP web service that runs on port 8081. It finds more information
 Enter this, (`http://localhost:8080/GetState/TN`) after running the application.
 
 ###
-Result of running (`http://localhost:8080/GetState/TN`)
+Result of running (`http://localhost:8080/GetState/TN`) 
+</br>
 (`{
     "state": {
         "id": "TN",
