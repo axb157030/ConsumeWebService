@@ -5,7 +5,7 @@ It consumes a SOAP web service that runs on port 8081. It finds more information
 <p> Please make sure to configure the SOAP Web service to port 8081</p>
 <br/>
 Enter this, (`http://localhost:8080/GetState/TN`) after running the application.
-#### Result of running `http://localhost:8080/GetState/TN`)
+#### Result of running `http://localhost:8080/GetState/TN`
 `{
     "state": {
         "id": "TN",
