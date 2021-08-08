@@ -19,6 +19,5 @@ Enter this, `http://localhost:8080/GetState/TN` after running the application.
 
 ### Blog
 --- 
-Soap web service accepts a payload that is turned from Java to XML. Class of payload should have @XML annotations such @XMLRootElement. The marshallers and unmarshallers that turn the java object to XML and vice versa, should be set and configured. The [WSDL] of the SOAP Web Service should be [present in application].  [The Soap Client should be configured]
-Invoking the SOAP web service is like invoke a RESTful web service but with a little different syntax to call it and the payload has to come from a package that the marshaller.![image](https://user-images.githubusercontent.com/15826152/128638010-5919be74-4675-47ec-ab5e-9b3c59a4f04a.png)
+![image](https://user-images.githubusercontent.com/15826152/128638010-5919be74-4675-47ec-ab5e-9b3c59a4f04a.png)
 
