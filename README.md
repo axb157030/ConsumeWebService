@@ -18,6 +18,5 @@ Enter this, `http://localhost:8080/GetState/TN` after running the application.
 }`
 
 ### Blog
---- 
 ![image](https://user-images.githubusercontent.com/15826152/128638010-5919be74-4675-47ec-ab5e-9b3c59a4f04a.png)
 
