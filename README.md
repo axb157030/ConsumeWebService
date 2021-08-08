@@ -23,7 +23,7 @@ Enter this, `http://localhost:8080/GetState/TN` after running the application.
 From <https://www.guru99.com/soap-simple-object-access-protocol.html> 
 - The Soap Client should be configured
 Invoking the SOAP web service is like invoke a RESTful web service but with a little different syntax to call it and the payload has to come from a package that the marshaller.
-- Here is anothers  good link to out SOAP: <a href="https://www.youtube.com/watch?v=C53G6R5EVys">SOAP Web Service Jargon</a>
+- Here is anothers  good link to learn more about SOAP: <a href="https://www.youtube.com/watch?v=C53G6R5EVys">SOAP Web Service Jargon</a>
 
 
 
