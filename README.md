@@ -22,7 +22,7 @@ Enter this, `http://localhost:8080/GetState/TN` after running the application.
 - The WSDL of the SOAP Web Service should be present in application."SOAP was developed as an intermediate language so that applications built on various programming languages could talk easily to each other and avoid the extreme development effort."
 From <https://www.guru99.com/soap-simple-object-access-protocol.html> 
 - The Soap Client should be configured.
- Invoking the SOAP web service is like invoke a RESTful web service but with a little different syntax to call it and the payload has to come from a package specified in the marshaller's context path.
+ Invoking the SOAP web service is like invoking a RESTful web service but with a little different syntax to call it and the payload has to come from a package specified in the marshaller's context path.
 - Here is anothers  good link to learn more about SOAP: <a href="https://www.youtube.com/watch?v=C53G6R5EVys">SOAP Web Service Jargon</a>
 
 
